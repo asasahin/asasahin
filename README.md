@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asasahin
 - 👀 I’m interested in Flutter..
-- 🌱 I’m currently learning Fluttrt
+- 🌱 I’m currently learning Flutter..
 - 💞️ I’m looking to collaborate on Flutter..
 - 📫 How to reach me ...
 
